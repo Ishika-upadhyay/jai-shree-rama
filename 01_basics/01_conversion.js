@@ -52,3 +52,4 @@ console.log(1+1+"2") //22
 
 console.log(+true) //1
 console.log(+"") // 1
+
